@@ -6,3 +6,19 @@ td3
 linear
 1个领航者
 3个跟随者
+
+## demo 200
+
+td3
+
+linear
+2个领航者
+2个跟随者
+
+## demo 300b
+
+td3
+
+lstm all + linear
+2个领航者
+2个跟随者
