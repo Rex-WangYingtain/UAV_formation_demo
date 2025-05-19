@@ -22,3 +22,12 @@ td3
 lstm all + linear
 2个领航者
 2个跟随者
+
+## demo 400b
+
+td3
+
+lstm state + linear
+
+2个领航者
+2个跟随者
