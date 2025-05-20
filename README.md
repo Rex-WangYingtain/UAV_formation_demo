@@ -31,3 +31,12 @@ lstm state + linear
 
 2个领航者
 2个跟随者
+
+## demo 700b
+
+td3
+
+atten + linear
+
+2个领航者
+2个跟随者
