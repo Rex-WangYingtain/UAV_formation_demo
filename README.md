@@ -41,6 +41,14 @@ lstm leader + linear
 2个领航者
 2个跟随者
 
+## demo600
+
+td3
+
+linear小参数
+2个领航者
+2个跟随者
+
 ## demo 700b
 
 td3
